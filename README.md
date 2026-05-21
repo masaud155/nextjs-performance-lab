@@ -2,6 +2,8 @@
 
 A practical Next.js performance learning app showing how to avoid premature optimization, reduce JavaScript, use server components correctly, measure before optimizing, and build sustainable frontend architecture.
 
+Repository: [masaud155/nextjs-performance-lab](https://github.com/masaud155/nextjs-performance-lab)
+
 ## Why This Project Exists
 
 Many teams try to optimize Next.js applications too early. They add caching without data rules, mark full pages as client components, install dependencies for small browser-native jobs, chase Lighthouse scores, and create abstractions before the product needs them.

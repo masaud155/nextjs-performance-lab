@@ -20,7 +20,7 @@ export function HeroSection() {
             <Button href="/checklist" variant="secondary">
               View Checklist
             </Button>
-            <Button href="https://github.com/" variant="ghost">
+            <Button href="https://github.com/masaud155/nextjs-performance-lab" variant="ghost">
               GitHub Repo
             </Button>
           </div>

@@ -12,7 +12,7 @@ export function Footer() {
           <Link href="/checklist" className="hover:text-white">
             Checklist
           </Link>
-          <Link href="https://github.com/" className="hover:text-white">
+          <Link href="https://github.com/masaud155/nextjs-performance-lab" className="hover:text-white">
             GitHub
           </Link>
         </div>
