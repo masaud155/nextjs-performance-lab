@@ -4,9 +4,9 @@
   "private": true,
   "description": "A practical Next.js performance learning app showing how to avoid premature optimization, reduce JavaScript, use server components correctly, measure before optimizing, and build sustainable frontend architecture.",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "node init && next dev",
+    "build": "node init && next build",
+    "start": "node init && next start",
     "lint": "eslint .",
     "format": "prettier --write ."
   },
